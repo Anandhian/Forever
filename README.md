@@ -1,12 +1,31 @@
-# React + Vite
+# 🌐 Forever Sage – Vercel Deployed Web Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Forever Sage**, a modern web project deployed with [Vercel](https://vercel.com/).
 
-Currently, two official plugins are available:
+🔗 **Live URL**: [https://forever-sage-chi.vercel.app/](https://forever-sage-chi.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Fast and responsive design
+- 🌙 Clean UI with modern styling
+- 🛠️ Built using cutting-edge technologies
+- ☁️ Hosted on Vercel with continuous deployment
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React
+- **Styling**: Tailwind CSS / styled-components (update if needed)
+- **Routing**: React Router DOM (if used)
+- **State Management**: useState / Context API / Redux (if used)
+
+---
+
+
+
+
+
+
